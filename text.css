@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding:0px;  
+}
+
+header {
+    
+    width: 100%;
+    height: 10vh;
+    background-color: cadetblue;
+    padding-top: 25px;
+
+}
+h1{
+   
+    color: white;
+    margin-top: 5px;
+}
+ul li{
+    
+    display:inline;
+    float: right;
+    padding-right: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+header h1{
+    float: left;
+    padding-left: 30px;
+}
+
+.sd h1{
+    color:white;
+    padding-left: 27px;
+    padding-top: 20px;
+    
+}
+.hello{
+    width: 100%;
+    display: flex;
+    background-color: cadetblue;
+}
+
+.sd{
+    width: 50%;
+}
+.sd h3{
+    padding: 20px;
+    color: white;
+    padding-left: 35px;
+}
+.sd p{
+    color: white;
+    
+    padding-left: 30px;
+    text-align: left ;
+}
+
+.simg{
+    width: 50%;
+    
+}
+i{
+    font-size: 30px;
+    padding:  5px;
+    margin-left: 30px;
+    border-radius: 50%;
+    border: 2px solid red;
+    background-color: white;
+    margin-top: 10px;
+
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    background-color: cadetblue;
+}
+.col-1{
+    width: 50%;
+}
+.col-2 ul li {
+    width: 50%;
+    margin: left 0;
+    display: flex;
+    
+}
+.col-2{
+    width: 50%;
+    margin-top: 150px;
+    color: white;
+}
+.col-2 ul li table {
+    padding: 4px;
+}
+.col-2 p{
+    text-align: left;
+}
+.button{
+    background-color: rgb(223, 14, 14);
+    margin: 40px;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}  
+/* ...................... */
+   
+
+
